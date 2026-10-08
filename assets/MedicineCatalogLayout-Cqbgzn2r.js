@@ -1,0 +1,2 @@
+import{h as s,a,j as t,o as r}from"./index-DmW-54pE.js";import"./redux-qsi8-Wp-.js";import{p as i}from"./antd-BHao4kc_.js";import"./react-DPUHAKBN.js";const p=()=>{const e=s(),{t:o}=a();return t.jsxs(t.Fragment,{children:[t.jsx(i,{type:"info",showIcon:!0,className:"mb-16",message:o("Layout cấp 2 — /medicine/catalog"),description:`${o("Route hiện tại:")} ${e.path} — name: ${e.name}`}),t.jsx(r,{})]})};export{p as default};
+//# sourceMappingURL=MedicineCatalogLayout-Cqbgzn2r.js.map

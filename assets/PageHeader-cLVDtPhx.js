@@ -1,2 +1,0 @@
-import{j as e}from"./index-BLDyOIfq.js";import"./redux-qsi8-Wp-.js";import{S as i,T as d,w as c}from"./antd-BHao4kc_.js";const{Title:t,Text:l}=d,m=({title:a,subtitle:s,extra:r})=>e.jsxs(e.Fragment,{children:[e.jsxs("div",{className:"page-header",children:[e.jsxs(i,{direction:"vertical",size:0,children:[e.jsx(t,{level:4,className:"page-header-title",children:a}),s&&e.jsx(l,{type:"secondary",children:s})]}),r]}),e.jsx(c,{className:"page-header-divider"})]});export{m as P};
-//# sourceMappingURL=PageHeader-cLVDtPhx.js.map

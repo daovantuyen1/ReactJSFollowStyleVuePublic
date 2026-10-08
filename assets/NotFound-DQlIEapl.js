@@ -1,0 +1,2 @@
+import{d as n,a as o,j as t}from"./index-DmW-54pE.js";import"./redux-qsi8-Wp-.js";import{O as e,B as a}from"./antd-BHao4kc_.js";import"./react-DPUHAKBN.js";const c=()=>{const r=n(),{t:s}=o();return t.jsx("div",{className:"login-page",children:t.jsx(e,{status:"404",title:"404",subTitle:s("Xin lỗi, trang bạn truy cập không tồn tại."),extra:t.jsx(a,{type:"primary",onClick:()=>r.push("/"),children:s("Về trang chủ")})})})};export{c as default};
+//# sourceMappingURL=NotFound-DQlIEapl.js.map
