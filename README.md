@@ -2,6 +2,9 @@
 
 Project mẫu ReactJS theo cấu trúc tương tự VueJS (vue-router / vuex style).
 
+## Link website giới thiệu:
+# https://daovantuyen1.github.io/ReactJSFollowStyleVuePublic/
+
 ## Công nghệ
 
 | Thành phần | Thư viện |
